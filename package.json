@@ -1,0 +1,9 @@
+{
+  "name": "node-red-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "node-red": "^4.0.0",
+    "node-red-dashboard": "^3.6.5"
+  }
+}
